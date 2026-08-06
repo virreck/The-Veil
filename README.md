@@ -1,6 +1,6 @@
-# VEIL WORLD LORE COMPENDIUM V2.2 (Illustrated)
+# VEIL WORLD LORE COMPENDIUM V2.3 (Illustrated)
 
-Current canon assembled from the worldbuilding built in this thread, presented as a working reference document. This version integrates expanded economic, material, survival logistics, visual canon plates, and the societal/biological divide of the Veil.
+Current canon assembled from the worldbuilding built in this thread, presented as a working reference document. This version integrates the macro-level civilizational divide alongside the micro-level realities of close-quarters combat, martial doctrine, and personal armor.
 
 ## Scope and Status
 This compendium captures the current working canon of the Veil setting as it stands in this thread. Where something has been explicitly locked in, it is written as canon. Where something remains under consideration, it is marked as an open question or design direction rather than fixed truth.
@@ -50,9 +50,6 @@ Weapons development ceased to be craft and became an accelerating race. Violence
 ### The Fracture
 A threshold was crossed. The world tore. The Veil was exposed.
 
-### The First Exposure
-After the Fracture, the Veil became part of lived reality. Some places thinned. Some thickened. Some people began to hear or feel resonance where others felt only wrongness.
-
 ### The Long Silence
 Collapse followed, not simply in fire but in consistency. Infrastructure broke. Old industrial assumptions failed. Large parts of the old technological tree died. The specific pathway that once led to firearms and modern ballistics ceased to exist culturally. It is not taboo in common life; it is simply absent, as though history never grew in that direction again.
 
@@ -63,14 +60,8 @@ Over time new structures emerged to live with a Veil-exposed world: the Concordi
 
 ## 4. Civilizational Structure
 
-### The Concordium
-The Concordium is the public doctrinal and civic layer. It gives ordinary people meaning, ritual language, ethics, and a safe interpretive framework for living in a Veil-exposed reality.
-
-### The Order
-The Order is not secret. It is public, visible, and respected. Its purpose is the guidance and oversight of the Vael'Fyrn, along with stewardship of the military branches associated with them, including Veil-Bearers and the Oathbound. The Order embodies restraint, skill, and disciplined attunement.
-
-### The Sanctum
-The Sanctum is the highest level. It sits above the visible structures and holds the deepest decisions: existential risk, containment of truths that cannot safely be circulated, and the long-horizon direction of civilization.
+### The Concordium, Order, and Sanctum
+The Concordium is the public doctrinal and civic layer. The Order is the visible guidance and oversight of the Vael'Fyrn and their military branches. The Sanctum sits above them all, managing existential risk and the long-horizon direction of civilization.
 
 ### The Dominion
 The Dominion is the mirror empire: a unified imperial machine that believes power belongs to those strong enough to take it. It sees the Veil not as something to live with but as something to force, reopen, strip, and weaponize.
@@ -79,188 +70,134 @@ The Dominion is the mirror empire: a unified imperial machine that believes powe
 The economy is not backed by precious metals or fiat currency, but by Resonance. Raw materials are cheap, but perfectly 'tuned' matter is highly valuable. The standard currency across civilized space is the 'Chord'—small, standardized crystal shards holding utilitarian frequencies used to power everyday tech.
 
 ### The Deaf Majority
-The vast majority of humanity (99.9%) is completely "deaf" to the Veil. They physically lack the capacity to hear, feel, or shape the Lattice. To an ordinary citizen, interacting with Veil physics is entirely passive; they use the technology (like Chime-boxes) but cannot perceive the underlying frequencies. Because of this absolute biological divide, the Vael'Fyrn are viewed with mythic reverence—they are the privileged, highly trained fraction of a percent who actually hold the keys to the fabric of reality. 
+The vast majority of humanity (99.9%) is completely "deaf" to the Veil. They physically lack the capacity to hear, feel, or shape the Lattice. Because of this absolute biological divide, the Vael'Fyrn are viewed with mythic reverence—they are the privileged, highly trained fraction of a percent who hold the keys to the fabric of reality. 
 
-### Law and Dissonance
-While standard crimes exist, the most severe felonies in the Concordium are categorized as *Dissonant Crimes*. This includes unlicensed tuning, creating dissonant broadcasts that cause structural fatigue or neighborhood-wide nausea, or intentionally scarring the local Veil Lattice. Smuggling raw, jagged Veil-shards instead of properly stabilized Chorus Crystals is a high treason offense. 
-
-### Macroscopic Terraforming
-Planetary engineering and civil construction are achieved via massive acoustic arrays. These arrays generate macroscopic Chladni figures, using overwhelming resonant frequencies to physically shift, flatten, and organize entire landscapes without traditional heavy machinery.
+### Dissonant Crimes
+The most severe felonies in the Concordium are categorized as *Dissonant Crimes*. This includes unlicensed tuning, creating dissonant broadcasts that cause structural fatigue or neighborhood-wide nausea, or intentionally scarring the local Veil Lattice. 
 
 ---
 
 ## 5. The Vael'Fyrn and Their Mirror
 
 ### Vael'Fyrn
-The correct term for the Order's forge-priests is Vael'Fyrn: Veilforged blacksmith-priests shaped by rite, vow, craft, and attunement. They are not 'born special' in the simplistic sense. Their authority is forged through discipline, not bloodline mystique.
+The correct term for the Order's forge-priests is Vael'Fyrn: Veilforged blacksmith-priests shaped by rite, vow, craft, and attunement. Their authority is forged through discipline, not bloodline mystique.
 
-### Forge of Whispers
-The Forge of Whispers remains the spiritual and practical axis of their legitimacy. Through rite and craft, a Vael'Fyrn forms a Binding Hammer and takes their place within the Order's living tradition.
-
-### Aesthetic canon
-Vael'Fyrn aesthetics are warm, soot-and-linen, mended leather, quiet-sacred, and forge-coded. Their civilization reads as a cathedral-forge culture: reverent, human, deliberate, and lived-in.
+### The Act of Binding (The Whisper and The Hammer)
+Vael'Fyrn do not use calculations; they use sacred craft. Because they are attuned, they can hear what the Veil is trying to express. They carve sacred runes into raw metal that match that truth, and use a heavy Binding Hammer to physically strike that resonance into the steel.
 
 ### Scarbinders
-The Dominion's mirror-caste is the Scarbinder. Scarbinders are to the Dominion what the Vael'Fyrn are to the Order: the high craft caste that turns ideology into material form. Where Vael'Fyrn listen and attune, Scarbinders bind, force, and make obedience out of wounds.
+The Dominion's mirror-caste is the Scarbinder. Scarbinders are to the Dominion what the Vael'Fyrn are to the Order: the high craft caste that turns ideology into material form.
 
 ### The Scarbinder Toll (Forced Attunement)
-While the Order's Vael'Fyrn are born with the rare capacity to *listen* and naturally attune to reality, the Scarbinders refuse to be bound by natural limits. Because they lack that harmonic connection, they force the Veil to bend by screaming at it until it obeys. This coercive, forced-pattern work weaponizes their own bodies as blunt instruments. The physical toll of projecting that raw, dissonant force shreds their vocal cords, burns their lungs, and shatters their throats. 
-
-### Life-Support as Status
-The iconic Scarbinder rebreathers are not merely theatrical; they are functional life-support systems required to keep them breathing after they have destroyed their own biology. By wrapping their ruined throats in ceremonial binds, they take a horrific, disabling injury and re-frame it as a badge of supreme imperial status—proving their willingness to break themselves in order to break the world.
-
-### Aesthetic canon - Scarbinder
-Scarbinder aesthetics are human, not monstrous: no glowing eyes, no theatrical spikes, no full helmets. They wear mask-only rebreathers, harsh industrial layers, and ceremonial throat binds over damaged tissue. The result is not comic-book villainy but industrial sacrilege.
+Scarbinders are completely deaf to the Veil. They take a jagged Veil-shard and literally scream their own intent into it, using volume, pressure, and pain to overwrite reality's natural state. This coercive work weaponizes their own bodies as blunt instruments, shredding their vocal cords and lungs. Their iconic rebreathers are functional life-support systems required to keep them breathing.
 
 ---
 
-## 6. Materials, Gifts, and Violent Matter
+## 6. Materials, Logistics, and Violent Matter
 
-### Dominion shards
-When the Veil is violently torn and forced open, what is pulled from it takes jagged form. These are Veil-shards. Their fractured geometry is the physical result of violence enacted on reality itself.
+### Dominion shards vs. Order gifts
+When the Veil is violently torn and forced open, what is pulled from it takes jagged form (Veil-shards). The Order does not harvest by force; they receive *Chorus Crystal*, a naturally formed condensate of harmony found in calm, coherent places.
 
-### Order gifts
-The Order does not harvest by force. It receives. In places of deep healthy coherence, non-violent condensates may form naturally. These are not shards.
-
-### Chorus Crystal
-Chorus Crystal is a naturally formed condensate of harmony. It appears in calm, coherent places, whole rather than jagged. It is used as an anchor for large rites, navigation harmonics, and high-order stabilization work.
-
-### Resonant Alloy
-Resonant Alloy is Vael'Fyrn-forged material coaxed into a tuned state through attunement and craft. It is not extracted from wounds. It is made by listening to Chorus Crystal and shaping metal into pattern-holding hardware. This material supports hull ribs, resonance arrays, sacred tools, and the working infrastructure of the Order.
-
-### Resonant Smelting
-The primary process of acoustic metallurgy. Rather than using blast furnaces, raw ore is placed in a chamber and blasted with the specific natural frequency of the desired pure metal. The stone and impurities violently shake apart into dust, leaving behind a structurally flawless, pure metal ingot without ever lighting a fire.
+### Resonant Alloy & Smelting
+Resonant Alloy is Vael'Fyrn-forged material coaxed into a tuned state through attunement and craft. *Resonant Smelting* uses targeted frequencies to violently shake raw ore apart into dust, leaving behind a structurally flawless, pure metal ingot without ever lighting a fire.
 
 ### Acoustic Stasis (Food Preservation)
-Survival logistics rely on the natural properties of Chorus Crystals. Specialized "Chime-boxes" use low-frequency crystals to emit sterilization pitches that vibrate microbial life to death. This preserves organics—from massive silos of grain to specific dry herb blends—indefinitely without freezing.
+Specialized "Chime-boxes" use low-frequency crystals to emit sterilization pitches that vibrate microbial life to death, indefinitely preserving organics without freezing.
 
 ### Cymatic Fluidics (Water Infrastructure)
-Water is incredibly responsive to sound, rendering standard mechanical pumps obsolete. City infrastructure utilizes *Resonant Fluidics*. Massive, low-humming Chorus Crystal arrays purify the water supply by vibrating heavy metals and toxins directly out of suspension, then propel the clean water through frictionless acoustic conduits. 
+Massive, low-humming Chorus Crystal arrays purify the water supply by vibrating heavy metals and toxins out of suspension, propelling the clean water through frictionless acoustic conduits. 
 
 ### Severance Chords
-If acoustic stasis can vibrate microbes to death, a macro-frequency can easily rupture a human heart. These lethal frequencies are classified as *Severance Chords*. They are heavily suppressed and entirely erased from public acoustic registries by the Sanctum. Because the general populace is deaf to the Veil, a Severance Chord does not sound like a note to an ordinary citizen; it simply feels like a sudden, terrifying drop in air pressure right before their heart stops. Accidental attunement to these chords is impossible for civilians. If an untrained individual somehow catalyzed one, they would act as the grounding wire, shaking their own nervous system apart via acoustic feedback before the damage could project outward.
-
-### Chemical Abstinence
-Because the world relies on acoustic stasis rather than chemical breakdown or fermentation, traditional alcohol does not exist within the cultural paradigm. Social and recreational consumption revolves around heavily steeped, complex herbal broths and 'attunement teas' designed to ground the mind and sharpen sensory focus.
-
-### Core distinction
-Dominion power is extracted. Order power is received and shaped. Dominion logistics move from Rend to shard to weapon. Order logistics move from gift to alloy to instrument.
+Lethal macro-frequencies capable of stopping a human heart or shaking a nervous system apart. They are heavily suppressed and erased from public acoustic registries by the Sanctum.
 
 ---
 
-## 7. Space Travel and Spatial Phenomenology
+## 7. Close-Quarters Combat Doctrine
 
-### Order travel
-Order travel is wave-like and harmonic. The opening phase is the Swell: space rises and opens like a calm ocean wave. The poised moment before translation is the Crest. A ship rides the Crest and vanishes. Closure is a settling wave, leaving clarity rather than damage.
+With cultural ballistics entirely absent, combat revolves around boarding actions, kinetic momentum, and the physical manifestation of resonance. 
 
-### Dominion travel
-Dominion travel is called the Rend by the Dominion itself. Everyone else calls it the Tear or the Rip. Space cracks and tears open like wounded fabric. A Rendhulk forces through, and the seam closes badly behind it.
+### The Song of the Weapon (The Order)
+When a Vael'Fyrn binds a weapon, it enters a state of perpetual harmony. The air physically ripples around the steel, and the weapon sings with a pure, continuous note. 
 
-### Rip-sites
-A closed Rend leaves a rip-site: a stitched seam in space, frayed but shut. It is not permanent, but for a time the damage persists. Instruments drift, echoes delay, nausea rises, and the region feels wrong. The seam fades gradually rather than remaining forever.
+### The Two Breaths (Veil-Bearer Martial Arts)
+The Veil-Bearers are drawn from the Deaf Majority. They utilize a graceful, hyper-lethal martial art built around two interconnected phases:
+*   **Thyrnara (The Aligned Flow):** Dictates movement, parrying, and spatial control. Drawing on Wing Chun and Aikido philosophies, it focuses on continuous momentum and centerline dominance, yielding to heavy incoming force to guide it off-center.
+*   **Ashyr'selar (The Listening Hand):** Dictates the lethal counter-strike. By maintaining physical contact with the opponent’s weapon during redirection, the Veil-Bearer tactilely "listens" to the kinetic shift. When the enemy overcommits, they unleash blindingly fast, precise thrusts to exposed structural weak points (like Wuxia blade-work).
 
-### Harvest logic
-Because rip-sites persist for a time, the Dominion can reopen them. Harvester vessels anchor into the seam and wrench it back open just enough to pull Veil-shards free.
+### The Sound of Subjugation (The Dominion)
+A Dominion weapon physically protests its own existence, emitting a strained, grating shriek of tortured reality. The Reavers fight with zero finesse, wielding massive two-handed warhammers and great axes. Their style relies on brutal, overwhelming downward force designed to crush armor and shatter guard stances.
 
----
+### The Unchaining (Dominion Catastrophic Strike)
+The physical chains and bolts on a Dominion weapon are pressure valves. In desperate moments, a Reaver can trigger a physical release, venting the confined pressure of the shard all at once. The resulting strike creates a devastating, miniature shockwave of raw force that damages the local Veil Lattice.
 
-## 8. Dominion Internal Structure
+### The Unbroken
+Because "The Unchaining" causes massive kinetic feedback that typically shatters the wielder's arms and causes massive internal hemorrhaging, it is highly lethal to perform. The terrifying, heavily-cybernetic elite Reavers who survive this kamikaze act are known simply as *The Unbroken*. 
 
-### Unified empire
-The Dominion is a unified imperial structure rather than a loose confederation. Its dependence on force requires heavier internal architecture than the Order needs.
-
-### Vox Omnium
-At the apex stands Vox Omnium, the singular sovereign voice of the empire.
-
-### The Conclave
-The Conclave is the Dominion's highest institutional body and the seat of the Scarbinders. It defines doctrine, authorizes scar-binding and weaponization, and determines what forms of Veil damage are acceptable in the pursuit of power.
-
-### Reaver Command
-The Reavers are the Dominion's military arm. Their culture is one of taking. Their branches include Legionaries, Breach Teams, Shardjackers, and Wardens.
-
-### The Prefecture
-The Prefecture turns conquest into output: tribute, transport, population management, and long-term extraction.
-
-### The Shardwright Corps
-Shardwrights are the Dominion's industrial fabricators. They turn harvested shard matter into tools, systems, rigs, hull components, containment hardware, and all the reproducible machinery of empire.
-
-### Operational chain
-Vox Omnium -> Conclave / Scarbinders -> Reaver Command -> Prefecture -> Shardwright Corps -> Fleet, with Warden discipline embedded throughout.
+### The Null-Strike (Active Cancellation)
+Standard soldiers cannot parry an Unchaining. When an Unbroken steps forward, a Vael'Fyrn must interpose themselves, planting their Binding Hammer into the deck. They emit a perfectly inverted counter-frequency that flattens the Dominion shockwave into a terrifying vacuum of absolute silence—an act that leaves the Vael'Fyrn physically drained.
 
 ---
 
-## 9. Spacecraft and Fleet Canon
+## 8. Personal Armor & Gear
 
-### Order archetypes
-The signature Order vessel is the Spireliner: elegant, cathedral-yacht-like, grand without aggression. Its role is pilgrimage, diplomacy, and reassuring presence. Smaller Spireguard escorts are flown by Veil-Bearers and carry a sacred fighter-jet silhouette that is protective rather than militaristic.
+### Veil-Bearer Armor: Forge-Monastic Attire
+Veil-Bearers require absolute physical fluidity for *Thyrnara*. They wear a hybrid of heavy textiles (soot-and-linen tunics, rugged forge-leathers, long layered tabards) and targeted pieces of Resonant Alloy plating (bracers, greaves, gorgets). The Old Republic Jedi silhouette allows for extreme acrobatics. Their rune-etched alloy plates act as localized acoustic shields, phase-canceling incoming kinetic force upon impact.
 
-### Harmonizer class
-The Order's crystal-gathering and stabilization class is the Harmonizer. Choir-Glean is the crystal-gathering subtype. Its visual canon is smooth, organic, and whale-adjacent: elegant space-whale rather than flat industrial ship. It receives Chorus Crystal rather than tearing anything open.
-
-### Dominion archetypes
-The signature Dominion vessel is the Rendhulk: a mobile wound-engine built for breach, tear, and harvest. It is escorted by Reavewings, sharp predatory frigates with aggressive winged silhouettes.
-
-### Harvester vessels
-Harvester ships are Dominion salvager-miners in space. Their visual language evokes industrial salvage and mining craft. They use claw-like clamps and anchors to wrench rip-sites open and pull shards from them.
-
-### Coffer ships
-Coffer ships have a hammerhead front and a flat upper deck built for external cargo. On that deck sit warded containment boxes - demonic-vault-like containers wrapped in chains and runes - mounted openly on the ship's exterior.
-
-### Aesthetic contrast
-Order ships use bone, warm metal, sacred geometry, open lattice work, and calm curves. Dominion ships use oil-black, grating, pipework, scars, industrial bulk, and altar-like mass.
+### The Cowl of the Deaf
+Because Veil-Bearers cannot organically attune to the Veil, they wear thick, soot-and-linen shinobi-style lower-face masks instead of heavy helmets. This keeps their peripheral vision completely clear. 
+*   **Bone-Conduction:** The fabric resting against their jawline contains tiny resonating nodes. When their weapon strikes a target, the mask catches the frequency and translates it into a physical vibration against their skull. This tactile feedback allows the deaf soldier to physically *feel* the rhythm and harmony of the combat flow they cannot organically hear, signaling exactly when to unleash the *Ashyr'selar* strike.
 
 ---
 
-## 10. Combat and Conflict Direction
+## 9. Space Travel and Spatial Phenomenology
 
-### Current design direction
-The setting currently leans toward boarding melee, breach pods, disruption tech, and ship disabling rather than ordinary projectile warfare. The absence of cultural ballistics remains a foundational truth of the setting.
+### Order travel vs. Dominion travel
+Order travel is harmonic. The opening phase is the *Swell*, space rises like a wave. The *Crest* is the moment before translation. Dominion travel is the *Rend* or *Rip*. Space cracks open like wounded fabric, leaving a stitched, fading seam called a *Rip-site* behind.
 
-### Why this fits
-Because Dominion travel is built around wounds and taking, boarding naturally fits its doctrine. Because the Order values witness, interposition, and stabilization, disabling and defense fit its own side.
+### Harvester logic
+Because rip-sites persist for a time, Dominion Harvester vessels can anchor into the seam and wrench it back open just enough to pull Veil-shards free.
 
-### Catastrophic ship deaths
-Ships can still die violently, but the defining catastrophic events are less about warheads and more about containment collapse, drive failure, decompression, and Veil-interaction gone wrong. A Dominion failure may feel like a wound snapping inward. An Order failure may feel like a harmony collapsing into silence.
+---
 
-### Open question
-The exact final form of ship-to-ship weaponry remains reserved for later design. Current canon supports boarding, disruption, field effects, cutting tools, and sabotage more strongly than conventional ranged guns.
+## 10. Spacecraft and Fleet Canon
+
+### Order Archetypes
+*   **Spireliner:** Signature pilgrimage and diplomacy hull. Elegant, cathedral-yacht-like.
+*   **Spireguard:** Escort craft with a protective, sacred fighter-jet silhouette.
+*   **Harmonizer (Choir-Glean):** Crystal-gathering class. Smooth, organic, space-whale adjacent.
+
+### Dominion Archetypes
+*   **Rendhulk:** Mobile wound-engine built for breach, tear, and harvest. Industrial, oil-black mass.
+*   **Reavewing:** Aggressive, predatory escort frigate.
+*   **Harvester:** Salvager-mining ship using massive claw-like clamps to wrench open seams.
+*   **Coffer:** Transport with a hammerhead front and external runic containment boxes wrapped in chains.
 
 ---
 
 ## 11. Visual Canon Plates
 
-Several visual depictions have been accepted in principle as canon references for tone and silhouette. These are not exhaustive technical blueprints, but they do establish the setting's visual language for key people and vessels.
-
 **The Vael'Fyrn and Scarbinder**
-The aesthetic contrast between the warm, soot-and-linen forge-coding of the Order's Vael'Fyrn and the harsh, mask-only industrial layers of the Dominion's Scarbinders.
 ![Vael'Fyrn and Scarbinder visual canon](Img_2026_08_05_11_10_50.jpeg)
 
 **Fleet Archetypes: The Spireliner and The Rendhulk**
-The signature Order Spireliner displaying its elegant, cathedral-like silhouette compared to the oil-black, industrial mass of the Dominion Rendhulk.
 ![Spireliner and Rendhulk signature silhouettes](Img_2026_08_05_11_11_11.jpeg)
 
 **Escort Class: Spireguard and Reavewing**
-The Order's protective, sacred fighter-jet silhouette of the Spireguard contrasted with the aggressive, predatory design of the Dominion's Reavewing.
 ![Spireguard and Reavewing escort contrast](Img_2026_08_05_11_11_18.jpeg)
 
 **The Order Crest**
-A Spireliner riding the harmonic wave of the Crest, utilizing sacred geometry and calm curves just before translation.
 ![Spireliner riding the Swell and Crest](Img_2026_08_05_11_11_34.jpeg)
 
 **The Dominion Rend**
-A Rendhulk acting as a mobile wound-engine, forcing a breach and violently tearing open the fabric of space.
 ![Rendhulk forcing a Rend](Img_2026_08_05_11_11_44.jpeg)
 
-**Order Logistics**
-A Choir-Glean Harmonizer—smooth, organic, and whale-adjacent—receiving natural condensates of Chorus Crystal.
+**Order Logistics (Harmonizer)**
 ![Choir-Glean Harmonizer visual canon](Img_2026_08_05_11_11_52.jpeg)
 
 **Harvest Logistics**
-A Dominion Harvester salvager-mining ship using massive claw-like clamps to wrench open a fading rip-site seam.
 ![Harvester wrenching open a rip-site seam](Img_2026_08_05_11_11_59.jpeg)
 
-**Dominion Cargo**
-A Dominion Coffer ship featuring its hammerhead front and external, demonic-vault-like warded containment boxes wrapped in chains.
+**Dominion Cargo (Coffer)**
 ![Coffer ship with exterior warded containment boxes](Img_2026_08_05_11_12_06.jpeg)
 
 ---
@@ -280,27 +217,19 @@ Some topics are deliberately not fully locked yet: fine-grained bind rank system
 | **Fracture** | The historical tearing-open of reality caused by accelerated weapons development. |
 | **Vael'Fyrn** | Veilforged blacksmith-priests of the Order. |
 | **Scarbinders** | Dominion mirror-caste to the Vael'Fyrn; Conclave craft elite. |
+| **Thyrnara** | "The Aligned Flow"; the Veil-Bearer martial art of spatial control, movement, and kinetic parrying. |
+| **Ashyr'selar** | "The Listening Hand"; the lethal, hyper-precise counter-strike of a Veil-Bearer. |
+| **The Unbroken** | Elite, cybernetically augmented Dominion Reavers who have survived triggering an Unchaining. |
+| **The Unchaining** | The act of releasing a Dominion weapon's pressure binds to vent a catastrophic shockwave. |
+| **Null-Strike** | A Vael'Fyrn's active cancellation of an Unchaining via an inverted counter-frequency strike to the deck. |
+| **Cowl of the Deaf** | Shinobi-style mask worn by Veil-Bearers utilizing bone-conduction to translate a weapon's frequency into tactile rhythm. |
 | **Chorus Crystal** | Naturally formed coherent condensate received, not harvested. |
 | **Resonant Alloy** | Attuned material forged by the Vael'Fyrn using Chorus Crystal as anchor. |
-| **Swell** | Opening phase of an Order jump. |
-| **Crest** | Peak phase just before an Order translation. |
-| **Rend** | Dominion term for a forced jump / tear through space. |
-| **Rip/Tear** | Common terms for Dominion rending. |
+| **Swell / Crest** | The opening and peak phases of an Order jump/translation. |
+| **Rend / Rip** | Dominion term for a forced jump / tear through space. |
 | **Rip-site** | Fading stitched seam left after a Rend closes. |
-| **Spireliner** | Signature Order pilgrimage and diplomacy hull. |
-| **Spireguard** | Order escort craft flown by Veil-Bearers. |
-| **Harmonizer** | Order support class built around stabilization and receiving. |
-| **Choir-Glean** | Harmonizer subtype for receiving Chorus Crystal. |
-| **Rendhulk** | Signature Dominion breach / tear / harvest hull. |
-| **Reavewing** | Predatory Dominion escort frigate. |
-| **Harvester** | Dominion salvager-mining ship that reopens seams and pulls shards. |
-| **Coffer** | Dominion transport with external runic containment boxes. |
-| **Reavers** | Dominion military arm. |
-| **Chords** | Small, standardized crystal shards holding utilitarian frequencies, functioning as the standard currency and everyday power source. |
-| **Chime-box** | A sealed container utilizing a low-power Chorus Crystal to acoustically preserve organics and halt cellular breakdown. |
-| **Resonant Smelting** | The acoustic extraction of perfectly pure metal from raw ore via targeted frequencies. |
+| **Chords** | Small, standardized crystal shards holding utilitarian frequencies, functioning as standard currency. |
+| **Resonant Smelting** | Acoustic extraction of perfectly pure metal from raw ore via targeted frequencies. |
 | **Acoustic Stasis** | The suspension of cellular decay and microbial growth through constant resonant vibration. |
 | **The Deaf Majority** | The 99.9% of humanity entirely unable to perceive, hear, or shape the frequencies of the Veil. |
-| **Dissonant Crimes** | Severe legal offenses involving unlicensed tuning, spatial scarring, or the smuggling of raw Veil-shards. |
-| **Cymatic Fluidics** | The use of low-humming crystal arrays to purify and propel water through acoustic conduits without mechanical pumps. |
-| **Severance Chords** | Highly illegal, lethal macro-frequencies capable of stopping a human heart or shaking a nervous system apart. Suppressed by the Sanctum, studied by the Dominion. |
+| **Severance Chords** | Highly illegal, lethal macro-frequencies capable of stopping a human heart. |
