@@ -1,9 +1,8 @@
 # VEIL WORLD LORE COMPENDIUM V2.3 (Illustrated)
 
-Current canon assembled from the worldbuilding built in this thread, presented as a working reference document. This version integrates the macro-level civilizational divide alongside the micro-level realities of close-quarters combat, martial doctrine, and personal armor.
-
 ## Scope and Status
-This compendium captures the current working canon of the Veil setting as it stands in this thread. Where something has been explicitly locked in, it is written as canon. Where something remains under consideration, it is marked as an open question or design direction rather than fixed truth.
+This compendium captures the current working canon of the Veil setting as it stands.
+Where something has been explicitly locked in, it is written as canon. Where something remains under consideration, it is marked as an open question or design direction rather than fixed truth.
 
 * **Core axis:** Harmony vs force
 * **Travel axis:** Swell/Crest vs Rend/Rip
